@@ -1,0 +1,37 @@
+
+.button {
+    padding: 0.5rem 0.25rem;
+    color: var(--label);
+    background-color: var(--warningColor);
+    border:none;
+
+    display: flex;
+    width: min-content;
+    padding: 0.5rem;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    transition: transform 0.15s, box-shadow 0.15s ease-out;
+
+    user-select: none;
+
+
+}
+
+.button:hover {
+    background-color: var(--warningColor);
+
+    box-shadow: rgb(244 121 43 / 20%) 0 -25px 18px -14px inset,
+            rgb(244 121 43 / 15%) 0 1px 2px,
+            rgb(244 121 43 / 15%) 0 2px 4px,
+            rgb(244 121 43 / 15%) 0 4px 8px,
+            rgb(244 121 43 / 15%) 0 8px 16px,
+            rgb(244 121 43 / 15%) 0 16px 32px;
+}
+
+.button:active {
+    transform: translateY(2px);
+    box-shadow: var(--warningSecondary) 0 3px 7px inset;
+}

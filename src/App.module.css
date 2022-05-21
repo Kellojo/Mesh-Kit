@@ -1,0 +1,40 @@
+.app {
+    text-align: center;
+    background-color: var(--backgroundColor);
+    min-height: 100vh;
+}
+
+
+.header {
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    max-width: var(--appMaxWidth);
+    margin: 0 auto;
+}
+
+.title {
+    font-size: var(--headerFontSize);
+    user-select: none;
+} 
+
+.text {
+    padding: 3rem 0px 5rem 0px;
+    color: var(--label);
+    max-width: 650px;
+    font-size: var(--header2FontSize);
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 2rem;
+    box-sizing: border-box;
+
+    max-width: var(--appMaxWidth);
+    margin: 0 auto;
+}

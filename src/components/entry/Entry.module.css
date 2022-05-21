@@ -1,0 +1,54 @@
+
+.entry {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border: 1px solid transparent;
+    border-radius: 15px;
+    overflow: hidden;
+
+    transition: all 0.3s ease-out;
+
+    background-color: var(--secondarySystemBackground);
+    
+    position: relative;
+}
+
+
+.header {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+
+    width: 100%;
+    backdrop-filter: blur(64px);
+    padding: 1rem;
+
+    position: absolute;
+    bottom: 0;
+}
+
+.entry:hover .downloadContainer {
+    height: 32px;
+    padding-top: 0.5rem;
+    opacity: 1;
+}
+
+.downloadContainer {
+    height: 0px;
+
+    padding-top: 0rem;
+    transition: all 0.175s ease-out;
+    opacity: 0;
+}
+
+.img {
+    width: 250px;
+    height: 250px;
+}
+
+span {
+    font-size: var(--header2FontSize);
+    color: var(--label);
+}
