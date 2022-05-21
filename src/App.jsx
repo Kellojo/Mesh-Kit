@@ -4,6 +4,7 @@ import Impressum from './components/impressum/Impressum';
 import Navbar from './components/navbar/Navbar';
 import { Routes, Route } from "solid-app-router"
 
+import Assets from "./assets/assets.json";
 
 function App() {
     return (
@@ -16,7 +17,7 @@ function App() {
             <div class={styles.content}>
 
                 <Routes>
-                    <Route path="/library" element={<Library />} />
+                    <Route path="/library" element={<Library assets={Assets.meshes} />} />
                     <Route path="/impressum" element={<Impressum />} />
                 </Routes>
 

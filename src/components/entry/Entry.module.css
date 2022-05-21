@@ -36,11 +36,18 @@
 }
 
 .downloadContainer {
+
+    display: flex;
+    flex-direction: row;
     height: 0px;
 
     padding-top: 0rem;
     transition: all 0.175s ease-out;
     opacity: 0;
+}
+
+.downloadContainer :not(:last-child) {
+    margin-right: 0.5rem;
 }
 
 .img {
