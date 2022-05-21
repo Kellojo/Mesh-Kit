@@ -13,6 +13,7 @@
 
     max-width: var(--appMaxWidth);
     margin: 0 auto;
+    box-sizing: border-box;
 }
 
 .title {

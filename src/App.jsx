@@ -2,7 +2,7 @@ import styles from './App.module.css';
 import Library from './components/library/Library';
 import Impressum from './components/impressum/Impressum';
 import Navbar from './components/navbar/Navbar';
-import { Routes, Route } from "solid-app-router"
+import { Routes, Route, Navigate } from "solid-app-router"
 
 import Assets from "./assets/assets.json";
 
@@ -17,6 +17,9 @@ function App() {
             <div class={styles.content}>
 
                 <Routes>
+                    <Route path="/">
+                        <Navigate href="/library" />
+                    </Route>
                     <Route path="/library" element={<Library assets={Assets.meshes} />} />
                     <Route path="/impressum" element={<Impressum />} />
                 </Routes>

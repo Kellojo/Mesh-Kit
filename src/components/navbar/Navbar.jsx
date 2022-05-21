@@ -5,9 +5,6 @@ import { NavLink } from "solid-app-router";
 
 
 const options = [{
-    text: "Home",
-    href: "/home"
-}, {
     text: "Library",
     href: "/library"
 }, {
@@ -18,10 +15,6 @@ const options = [{
     href: "/impressum"
 }];
 
-const [selected, setSelected] = createSignal("selectedTab");
-
-
-setSelected(options[0].text);
 
 function Navbar() {
     return (

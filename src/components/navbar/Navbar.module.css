@@ -5,6 +5,7 @@
     align-items: center;
 
     margin-left: auto;
+    box-sizing: border-box;
 }
 
 a {

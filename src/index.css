@@ -23,6 +23,9 @@ html {
     --label: #fff;
     --secondaryLabel: #EBEBF599;
     --tertiaryLabel: #EBEBF54D;
+
+    --brandColor: #f4792b;
+    --secondaryBrandColor: #3C91E6;
  
 
     --successColor: #34c759;
@@ -34,6 +37,6 @@ html {
     --headerFontSize: 24px;
     --header2FontSize: 18px;
 
-    --appMaxWidth: 1378px;
+    --appMaxWidth: 1410px;
 }
 
