@@ -1,5 +1,5 @@
 
-const BASE_PATH = "/Mesh-Kit";
+const BASE_PATH = "";
 
 const RouteName = {
     Library: `${BASE_PATH}/library`,
