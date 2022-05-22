@@ -26,6 +26,9 @@ html {
 
     --brandColor: #f4792b;
     --secondaryBrandColor: #e6ae3c;
+
+    --brandColorDark: #cc6525;
+    --secondaryBrandColorDark: #be9032;
  
 
     --successColor: #34c759;
@@ -38,6 +41,9 @@ html {
     --header2FontSize: 18px;
 
     --appMaxWidth: 1410px;
+
+    --appPaddingDesktop: 4rem;
+    --appPaddingMobile: 2rem;
 }
 
 
@@ -64,6 +70,10 @@ html {
 }
 
 
+span {
+    color: var(--label);
+}
+
 
 a {
     color: var(--label);
@@ -71,5 +81,8 @@ a {
 }
 
 a:hover {
-    color: var(--brandColor);
+        background-image: linear-gradient(236deg, var(--brandColor), var(--secondaryBrandColor));
+        -webkit-background-clip: text;
+        background-color: transparent;
+        color: transparent;
 }

@@ -2,11 +2,11 @@
 .button {
     padding: 0.5rem 0.25rem;
     color: var(--label);
-    background-color: var(--warningColor);
+    background-image: linear-gradient(236deg, var(--brandColor), var(--secondaryBrandColor));
     border:none;
 
     display: flex;
-    width: min-content;
+    width: fit-content;
     padding: 0.5rem;
 
     border-radius: 5px;
@@ -21,8 +21,6 @@
 }
 
 .button:hover {
-    background-color: var(--warningColor);
-
     box-shadow: rgb(244 121 43 / 20%) 0 -25px 18px -14px inset,
             rgb(244 121 43 / 15%) 0 1px 2px,
             rgb(244 121 43 / 15%) 0 2px 4px,

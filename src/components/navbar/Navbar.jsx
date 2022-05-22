@@ -1,8 +1,9 @@
 
 import styles from './Navbar.module.css';
-import { createSignal, For } from "solid-js";
+import { For } from "solid-js";
 import { NavLink } from "solid-app-router";
 import RouteName from '../../RouteName';
+import Button from '../button/Button';
 
 
 const options = [{
@@ -28,6 +29,11 @@ function Navbar() {
                     </NavLink>);
                 }
             }</For>
+
+            <div class={styles.spacerLeft}>
+                <Button text="Donate" />
+            </div>
+
         </div>
 
     );

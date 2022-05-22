@@ -18,6 +18,7 @@
     align-items: center;
     justify-content: center;
     margin: 2rem;
+    margin-top: 0;
 }
 
 .counter {
@@ -39,4 +40,12 @@
 .description {
     margin: 3rem 0rem 6rem 0rem;
     max-width: 650px;
+}
+
+
+@media only screen and (max-width: 800px) {
+    .counter {
+        font-size: var(--headerFontSize);
+        margin: 1rem;
+    }
 }

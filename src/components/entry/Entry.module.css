@@ -13,6 +13,7 @@
     background-color: var(--secondarySystemBackground);
     
     position: relative;
+    flex-shrink: 0;
 }
 
 
@@ -39,6 +40,10 @@
     box-shadow: 0px 0px 38px 10px rgb(255 255 255 / 14%)
 }
 
+.entry:hover span {
+    color: var(--label);
+}
+
 .downloadContainer {
 
     display: flex;
@@ -57,9 +62,10 @@
 .img {
     width: 250px;
     height: 250px;
+    user-select: none;
 }
 
-span {
+.downloadContainer span {
     font-size: var(--header2FontSize);
-    color: var(--label);
+    color: transparent;
 }

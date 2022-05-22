@@ -6,7 +6,7 @@
 
 
 .header {
-    padding: 2rem;
+    padding: var(--appPaddingDesktop);
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -33,9 +33,24 @@
     flex-direction: column;
     align-items: center;
 
-    padding: 2rem;
+    padding: var(--appPaddingDesktop);
     box-sizing: border-box;
 
     max-width: var(--appMaxWidth);
     margin: 0 auto;
+}
+
+
+@media only screen and (max-width: 800px) {
+    .mainMessageContainer {
+        padding: 2rem;
+    }
+
+    .content, .header {
+        padding: var(--appPaddingMobile);
+    }
+
+    .header {
+        flex-direction: column;
+    }
 }
