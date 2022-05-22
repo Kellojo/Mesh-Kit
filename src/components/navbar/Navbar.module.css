@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 
-a {
+.navbar a {
     font-size: var(--header2FontSize);
     color: var(--label);
 
@@ -23,7 +23,7 @@ a {
     transition: background-color 0.15s, transform 0.15s, color 0.15s, box-shadow 0.15s ease-out;
 }
 
-a:hover {
+.navbar a:hover {
     box-shadow:
         rgb(244 121 43 / 15%) 0 1px 2px,
         rgb(244 121 43 / 15%) 0 2px 4px,
@@ -35,7 +35,7 @@ a:hover {
     color:white;
 }
 
-a:active {
+.navbar a:active {
     transform: translateY(2px);
     box-shadow: var(--warningSecondary) 0 3px 7px inset;
 }

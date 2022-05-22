@@ -9,9 +9,6 @@ const options = [{
     text: "Library",
     href: RouteName.Library,
 }, {
-    text: "License",
-    href: RouteName.License,
-}, {
     text: "Impressum",
     href: RouteName.Impressum,
 }];

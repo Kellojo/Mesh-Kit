@@ -33,7 +33,7 @@ function Library(props) {
                 </div>
             </div>
 
-            <span class={styles.description}>All assets in this library are distributed under the MIT license. Feel free to include them in your personal or commercial projects. If you fancy, a small donation is always welcome and helps me out a ton!</span>
+            <span class={styles.description}>All assets in this library are distributed under the <a href="https://github.com/Kellojo/Mesh-Kit-Library/blob/main/LICENSE" target="_blank">MIT license</a>. Feel free to include them in your personal or commercial projects. If you fancy, a small donation is always welcome and helps me out a ton!</span>
             <Grid>
                 <For each={props.assets}>{
                     entry => {

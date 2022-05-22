@@ -40,3 +40,11 @@ html {
     --appMaxWidth: 1410px;
 }
 
+a {
+    color: var(--label);
+    transition: color 0.15s ease-out
+}
+
+a:hover {
+    color: var(--brandColor);
+}

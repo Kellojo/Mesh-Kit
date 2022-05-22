@@ -2,7 +2,6 @@ import styles from './App.module.css';
 import Library from './components/library/Library';
 import Impressum from './components/impressum/Impressum';
 import Navbar from './components/navbar/Navbar';
-import License from './components/license/License';
 import { Routes, Route, Navigate } from "solid-app-router";
 import RouteName from './RouteName';
 
@@ -23,7 +22,6 @@ function App() {
                         <Navigate href={RouteName.Library} />
                     </Route>
                     <Route path={RouteName.Library} element={<Library assets={Assets.meshes} />} />
-                    <Route path={RouteName.License} element={<License />} />
                     <Route path={RouteName.Impressum} element={<Impressum />} />
                 </Routes>
 
