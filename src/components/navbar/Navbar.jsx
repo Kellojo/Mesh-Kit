@@ -2,17 +2,18 @@
 import styles from './Navbar.module.css';
 import { createSignal, For } from "solid-js";
 import { NavLink } from "solid-app-router";
+import RouteName from '../../RouteName';
 
 
 const options = [{
     text: "Library",
-    href: "/library"
+    href: RouteName.Library,
 }, {
     text: "License",
-    href: "/license"
+    href: RouteName.License,
 }, {
     text: "Impressum",
-    href: "/impressum"
+    href: RouteName.Impressum,
 }];
 
 
