@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 5
+            "count": 6
         }
     },
     "meshes": [
@@ -24,6 +24,13 @@
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/Mono Railblend.blend"
+            }
+        },
+        {
+            "name": "Projectile",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/Projectile.blend"
             }
         },
         {
