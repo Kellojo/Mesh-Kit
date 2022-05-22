@@ -9,7 +9,7 @@
 }
 
 .navbar a {
-    font-size: var(--header2FontSize);
+    font-size: var(--defaultFontSize);
     color: var(--label);
 
     padding: 0.5rem 1rem;
@@ -41,6 +41,9 @@
 }
 
 .active {
-    color: var(--warningColor);
     text-decoration: underline;
+}
+
+.inactive {
+    text-decoration: none;
 }

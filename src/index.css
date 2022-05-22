@@ -25,7 +25,7 @@ html {
     --tertiaryLabel: #EBEBF54D;
 
     --brandColor: #f4792b;
-    --secondaryBrandColor: #3C91E6;
+    --secondaryBrandColor: #e6ae3c;
  
 
     --successColor: #34c759;
@@ -39,6 +39,31 @@ html {
 
     --appMaxWidth: 1410px;
 }
+
+
+@font-face {
+    font-family: Lato;
+    src: url(./assets/fonts/Lato-Regular.ttf);
+    font-weight: regular;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url(./assets/fonts/Lato-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url(./assets/fonts/Lato-Thin.ttf);
+    font-weight: bold;
+}
+
+* {
+    font-family: 'Lato';
+}
+
+
 
 a {
     color: var(--label);
