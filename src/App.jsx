@@ -1,6 +1,7 @@
 import styles from './App.module.css';
 import Library from './components/library/Library';
 import Impressum from './components/impressum/Impressum';
+import Home from './components/home/Home';
 import Navbar from './components/navbar/Navbar';
 import { Routes, Route, Navigate } from "solid-app-router";
 import RouteName from './RouteName';
@@ -19,8 +20,9 @@ function App() {
 
                 <Routes>
                     <Route path="/">
-                        <Navigate href={RouteName.Library} />
+                        <Navigate href={RouteName.Home} />
                     </Route>
+                    <Route path={RouteName.Home} element={<Home />} />
                     <Route path={RouteName.Library} element={<Library assets={Assets.meshes} />} />
                     <Route path={RouteName.Impressum} element={<Impressum />} />
                 </Routes>

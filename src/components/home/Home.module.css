@@ -1,0 +1,54 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.counterContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.counter {
+    font-size: 50px;
+}
+
+.title {
+    font-size: var(--headerFontSize);
+}
+
+.title,
+.counter {
+    background-image: linear-gradient(236deg, var(--brandColor), var(--secondaryBrandColor));
+    -webkit-background-clip: text;
+    background-color: transparent;
+    color: transparent;
+}
+
+
+.titleContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+
+.title {
+    display: block;
+}
+
+.description {
+    margin: 3rem 0rem 6rem 0rem;
+    max-width: 650px;
+}

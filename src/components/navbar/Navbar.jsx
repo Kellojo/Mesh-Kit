@@ -6,6 +6,9 @@ import RouteName from '../../RouteName';
 
 
 const options = [{
+    text: "Home",
+    href: RouteName.Home,
+},{
     text: "Library",
     href: RouteName.Library,
 }, {
