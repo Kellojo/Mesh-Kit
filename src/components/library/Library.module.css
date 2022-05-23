@@ -19,10 +19,12 @@
     justify-content: center;
     margin: 2rem;
     margin-top: 0;
+    user-select: none;
 }
 
 .counter {
     font-size: 50px;
+    user-select: none;
 }
 
 .title {
