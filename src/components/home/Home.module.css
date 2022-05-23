@@ -65,13 +65,14 @@
 
 
 @media only screen and (max-width: 800px) {
-    .mainMessageContainer {
-        flex-direction: column;
+    .mainMessageContainer, .secondaryMessageContainer {
+        grid-template-columns: 1fr;
     }
 
     .titleContainer {
         padding-right: 0;
         text-align: center;
+        align-items: center;
     }
 
 }

@@ -46,6 +46,14 @@
 @media only screen and (max-width: 800px) {
     .counter {
         font-size: var(--headerFontSize);
+        margin: 0.5rem;
+    }
+
+    .card {
         margin: 1rem;
+    }
+
+    .title {
+        font-size: var(--header2FontSize);
     }
 }
