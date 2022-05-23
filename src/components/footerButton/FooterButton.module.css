@@ -1,0 +1,35 @@
+
+.button {
+
+    color: var(--label);
+    border:none;
+
+    display: flex;
+    width: fit-content;
+
+    border-radius: 90%;
+    cursor: pointer;
+    padding: 0px;
+
+    transition: transform 0.15s, fill 0.15s, box-shadow 0.15s ease-out;
+
+    user-select: none;
+    background-color: transparent;
+
+
+}
+
+.button svg {
+    transition: fill 0.15 ease-out;
+}
+
+
+
+.button:hover svg {
+    fill: white;
+}
+
+.button:active {
+    transform: translateY(2px);
+    box-shadow: var(--warningSecondary) 0 3px 7px inset;
+}

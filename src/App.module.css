@@ -4,6 +4,15 @@
     min-height: 100vh;
 }
 
+.resize {
+    max-width: var(--appMaxWidth);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
 
 .header {
     padding: var(--appPaddingDesktop);
@@ -11,9 +20,20 @@
     flex-direction: row;
     align-items: center;
 
-    max-width: var(--appMaxWidth);
-    margin: 0 auto;
+    width: 100%;
     box-sizing: border-box;
+}
+
+.footer {
+    padding: var(--appPaddingDesktop);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: auto;
 }
 
 .title {
@@ -36,8 +56,7 @@
     padding: var(--appPaddingDesktop);
     box-sizing: border-box;
 
-    max-width: var(--appMaxWidth);
-    margin: 0 auto;
+    width: 100%;
 }
 
 
