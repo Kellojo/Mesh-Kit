@@ -24,6 +24,7 @@
 
     width: 100%;
     backdrop-filter: blur(64px);
+    -webkit-backdrop-filter: blur(64px);
     padding: 1rem;
 
     position: absolute;
