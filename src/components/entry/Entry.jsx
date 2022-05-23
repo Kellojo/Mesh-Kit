@@ -8,7 +8,7 @@ function downloadFile(file) {
 function Entry(props) {
     return (
         <div class={styles.entry}>
-            <img src={props.previewUrl} class={styles.img} />
+            <img src={props.previewUrl} class={styles.img} alt={`Preview of ${props.title}`} />
             <div class={styles.header}>
                 <span>{props.title}</span>
                 <div class={styles.downloadContainer}>
