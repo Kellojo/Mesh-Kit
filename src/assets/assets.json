@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 6
+            "count": 7
         }
     },
     "meshes": [
@@ -10,6 +10,13 @@
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/Energy Cell.blend"
+            }
+        },
+        {
+            "name": "Gatling Turret",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/Turret.blend"
             }
         },
         {
