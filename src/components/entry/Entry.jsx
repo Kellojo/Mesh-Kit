@@ -5,10 +5,14 @@ function downloadFile(file) {
    window.open(file, "_blank");
 }
 
+function fadeInImage() {
+    this.style.opacity = 1;
+}
+
 function Entry(props) {
     return (
         <div class={styles.entry}>
-            <img src={props.previewUrl} class={styles.img} alt={`Preview of ${props.title}`} />
+            <img src={props.previewUrl} class={styles.img} alt={`Preview of ${props.title}`} onload={fadeInImage}  />
             <div class={styles.header}>
                 <span>{props.title}</span>
                 <div class={styles.downloadContainer}>

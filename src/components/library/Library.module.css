@@ -35,6 +35,7 @@
 .counter {
     background-image: linear-gradient(236deg, var(--brandColor), var(--secondaryBrandColor));
     -webkit-background-clip: text;
+    background-clip: text;
     background-color: transparent;
     color: transparent;
 }
