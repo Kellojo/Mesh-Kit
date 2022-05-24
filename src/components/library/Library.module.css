@@ -27,18 +27,6 @@
     user-select: none;
 }
 
-.title {
-    font-size: var(--headerFontSize);
-}
-
-.title,
-.counter {
-    background-image: linear-gradient(236deg, var(--brandColor), var(--secondaryBrandColor));
-    -webkit-background-clip: text;
-    background-clip: text;
-    background-color: transparent;
-    color: transparent;
-}
 
 .description {
     margin: 3rem 0rem 6rem 0rem;

@@ -8,22 +8,6 @@
 
 
 
-
-.title {
-    font-size: var(--headerFontSize);
-}
-
-.title,
-.counter {
-    background-image: linear-gradient(236deg, var(--brandColor), var(--secondaryBrandColor));
-    -webkit-background-clip: text;
-    background-color: transparent;
-    color: transparent;
-
-    user-select: none;
-}
-
-
 .mainMessageContainer {
     display: grid;
     gap: 6rem;
@@ -46,10 +30,6 @@
     box-sizing: border-box;
 }
 
-
-.title {
-    display: block;
-}
 
 .description {
     padding: 2rem 0rem;

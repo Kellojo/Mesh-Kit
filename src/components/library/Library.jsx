@@ -1,4 +1,5 @@
 import styles from './Library.module.css';
+import sharedStyles from '../shared.module.css';
 import Entry from '../entry/Entry';
 import Grid from '../grid/Grid';
 import Assets from "../../assets/assets.json";
@@ -18,18 +19,18 @@ function Library(props) {
 
             <div class={styles.counterContainer}>
                 <div class={styles.card}>
-                    <span class={styles.counter}>{formatNumber(Assets.statistics.meshes?.count)}</span>
-                    <span class={styles.title}>Meshes</span>
+                    <span class={`${styles.counter} ${sharedStyles.brandText}`}>{formatNumber(Assets.statistics.meshes?.count)}</span>
+                    <span class={`${styles.title} ${sharedStyles.title}`}>Meshes</span>
                 </div>
 
                 <div class={styles.card}>
-                    <span class={styles.counter}>{formatNumber(Assets.statistics.materials?.count)}</span>
-                    <span class={styles.title}>Materials</span>
+                    <span class={`${styles.counter} ${sharedStyles.brandText}`}>{formatNumber(Assets.statistics.materials?.count)}</span>
+                    <span class={`${styles.title} ${sharedStyles.title}`}>Materials</span>
                 </div>
 
                 <div class={styles.card}>
-                    <span class={styles.counter}>{formatNumber(Assets.statistics.textures?.count)}</span>
-                    <span class={styles.title}>Textures</span>
+                    <span class={`${styles.counter} ${sharedStyles.brandText}`}>{formatNumber(Assets.statistics.textures?.count)}</span>
+                    <span class={`${styles.title} ${sharedStyles.title}`}>Textures</span>
                 </div>
             </div>
 
