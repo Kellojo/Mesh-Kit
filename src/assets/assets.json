@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 14
+            "count": 15
         }
     },
     "meshes": [
@@ -94,6 +94,13 @@
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/Connector.blend"
+            }
+        },
+        {
+            "name": "Thruster",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Thruster/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Thruster/Thruster.blend"
             }
         },
         {
