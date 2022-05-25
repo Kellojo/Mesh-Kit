@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 12
+            "count": 13
         }
     },
     "meshes": [
@@ -45,6 +45,13 @@
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/Mono Railblend.blend"
+            }
+        },
+        {
+            "name": "Mono Rail Piece (Damaged)",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece (Damaged)/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece (Damaged)/Mono Rail Damaged.blend"
             }
         },
         {
