@@ -1,10 +1,17 @@
 {
     "statistics": {
         "meshes": {
-            "count": 9
+            "count": 10
         }
     },
     "meshes": [
+        {
+            "name": "Construction Drone",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/Drone.blend"
+            }
+        },
         {
             "name": "Energy Cell",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/icon.png",
