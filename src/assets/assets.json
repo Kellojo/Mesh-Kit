@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 8
+            "count": 9
         }
     },
     "meshes": [
@@ -45,6 +45,13 @@
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/Projectile.blend"
+            }
+        },
+        {
+            "name": "Shell Casing",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Shell Casing/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Shell Casing/Shell Casing.blend"
             }
         },
         {
