@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 13
+            "count": 14
         }
     },
     "meshes": [
@@ -17,6 +17,13 @@
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor/Cursor.blend"
+            }
+        },
+        {
+            "name": "Cursor (Move)",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move)/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move)/Cursor.blend"
             }
         },
         {
