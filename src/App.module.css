@@ -36,6 +36,10 @@
     margin-top: auto;
 }
 
+.footer * {
+    margin: 0 0.5rem;
+}
+
 .title {
     font-size: var(--headerFontSize);
     user-select: none;
@@ -61,9 +65,6 @@
 
 
 @media only screen and (max-width: 800px) {
-    .mainMessageContainer {
-        padding: 2rem;
-    }
 
     .content, .header {
         padding: var(--appPaddingMobile);

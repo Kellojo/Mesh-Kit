@@ -38,7 +38,7 @@ function Library(props) {
             <Grid>
                 <For each={props.assets}>{
                     entry => {
-                        return (<Entry title={entry.name} previewUrl={entry.previewUrl} downloads={entry.downloads}/>);
+                        return (<Entry title={entry.name} previewUrl={entry.previewUrl} downloads={entry.downloads} createdAt={entry.createdAt} lastModifiedAt={entry.lastModifiedAt}/>);
                     }
                 }</For>
             </Grid>

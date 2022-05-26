@@ -36,6 +36,7 @@ html {
     --warningSecondary: #b0551a;
     --errorColor: #ff3b30;
 
+    --smallFontSize: 12px;
     --defaultFontSize: 14px;
     --headerFontSize: 24px;
     --header2FontSize: 18px;
