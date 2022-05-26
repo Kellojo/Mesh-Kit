@@ -10,105 +10,135 @@
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/Drone.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Cursor",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor/Cursor.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Cursor (Move)",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move)/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move)/Cursor.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Energy Cell",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/Energy Cell.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Gatling Turret",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/Turret.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Land Mine",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/Mine.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Mono Rail Piece",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/Mono Railblend.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Mono Rail Piece (Damaged)",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece (Damaged)/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece (Damaged)/Mono Rail Damaged.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Mortar",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mortar/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mortar/Mortar.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Projectile",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/Projectile.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Shell Casing",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Shell Casing/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Shell Casing/Shell Casing.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Storage Drive",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Storage Drive/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Storage Drive/Storage Drive.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Tesla Coil",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/Connector.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Thruster",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Thruster/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Thruster/Thruster.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         },
         {
             "name": "Wind Turbine",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Wind Turbine/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Wind Turbine/Wind Turbine.blend"
-            }
+            },
+            "createdAt": "2022-05-26T16:21:40.000Z",
+            "lastModifiedAt": "2022-05-26T16:21:40.000Z"
         }
     ]
 }
