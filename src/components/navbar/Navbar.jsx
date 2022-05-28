@@ -30,7 +30,7 @@ function Navbar() {
                 }
             }</For>
 
-            <a href={RouteName.RequestAnAssetURL} target="_blank">Request an Asset</a>
+            <a class={styles.inactive} href={RouteName.RequestAnAssetURL} target="_blank">Request an Asset</a>
 
             <div class={styles.spacerLeft}>
                 <Button href={RouteName.RequestAnAsset} text="Donate" />
