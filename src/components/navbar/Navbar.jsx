@@ -4,7 +4,6 @@ import { For } from "solid-js";
 import { NavLink } from "solid-app-router";
 import RouteName from '../../RouteName';
 import Button from '../button/Button';
-import sharedStyles from '../shared.module.css';
 
 
 const options = [{
