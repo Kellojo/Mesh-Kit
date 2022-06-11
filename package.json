@@ -6,10 +6,13 @@
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "open-cypress": "npx cypress open",
+    "test": "npx cypress run"
   },
   "license": "MIT",
   "devDependencies": {
+    "cypress": "^10.1.0",
     "vite": "^2.8.6",
     "vite-plugin-solid": "^2.2.6"
   },
