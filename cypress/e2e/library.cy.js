@@ -9,6 +9,8 @@ describe('empty spec', () => {
         cy.visit('/');
 
         cy.get('button').contains('.blend').click();
+
+        cy.verifyDownload('.blend', { contains: true });
     });
 
 

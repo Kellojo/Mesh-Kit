@@ -1,4 +1,4 @@
 node_modules
 dist
-.mp4
+*.mp4
 cypress/downloads/*
