@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 21
+            "count": 20
         }
     },
     "meshes": [
@@ -64,15 +64,6 @@
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Ingot/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Ingot/Ingot.blend"
-            },
-            "createdAt": "2022-05-22T20:48:36.000Z",
-            "lastModifiedAt": "2022-05-27T13:45:26.000Z"
-        },
-        {
-            "name": "Land Mine",
-            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/icon.png",
-            "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/Mine.blend"
             },
             "createdAt": "2022-05-22T20:48:36.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
