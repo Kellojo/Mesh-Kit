@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 20
+            "count": 21
         }
     },
     "meshes": [
@@ -67,6 +67,15 @@
             },
             "createdAt": "2022-05-22T20:48:36.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+        },
+        {
+            "name": "Land Mine",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/Mine.blend"
+            },
+            "createdAt": "2022-05-22T20:48:36.000Z",
+            "lastModifiedAt": "2022-08-20T10:48:48.000Z"
         },
         {
             "name": "Mono Rail Piece",
