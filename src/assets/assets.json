@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 22
+            "count": 24
         }
     },
     "meshes": [
@@ -69,6 +69,15 @@
             "lastModifiedAt": "2022-07-10T18:24:20.000Z"
         },
         {
+            "name": "Homing Missile",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Homing Missile/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Homing Missile/Homing Missle.blend"
+            },
+            "createdAt": "2022-05-22T20:48:36.000Z",
+            "lastModifiedAt": "2022-11-27T22:08:52.000Z"
+        },
+        {
             "name": "Ingot",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Ingot/icon.png",
             "downloads": {
@@ -121,6 +130,15 @@
             },
             "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+        },
+        {
+            "name": "Rocket Crab Robot",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocket Crab Robot/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocket Crab Robot/Rocket Crab Robot.blend"
+            },
+            "createdAt": "2022-05-21T13:35:37.000Z",
+            "lastModifiedAt": "2022-11-27T22:08:52.000Z"
         },
         {
             "name": "Rocketship",
