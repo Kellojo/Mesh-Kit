@@ -11,6 +11,7 @@
     transition: all 0.3s ease-out;
 
     background-color: var(--secondarySystemBackground);
+    border: 1px solid  var(--borderColor);
     
     position: relative;
     flex-shrink: 0;
@@ -23,14 +24,13 @@
     flex-direction: column;
 
     width: 100%;
-    backdrop-filter: blur(64px);
-    -webkit-backdrop-filter: blur(64px);
     padding: 1rem;
-
+    background: #1c1c1ead;
+    backdrop-filter: blur(5px);
+    
     position: absolute;
     bottom: 0;
 
-    border-radius: 15px;
 }
 
 .titleContainer {
@@ -57,7 +57,20 @@
 }
 
 .entry:hover {
-    box-shadow: 0px 0px 38px 10px rgb(255 255 255 / 14%)
+    
+    transform: scale(1.1);
+    border: 1px solid var(--secondaryBrandColor);
+    box-shadow: rgb(244 121 43 / 20%) 0 -25px 18px -14px inset,
+    rgb(244 121 43 / 15%) 0 1px 2px,
+    rgb(244 121 43 / 15%) 0 2px 4px,
+    rgb(244 121 43 / 15%) 0 4px 8px,
+    rgb(244 121 43 / 15%) 0 8px 16px,
+    rgb(244 121 43 / 15%) 0 16px 32px;
+
+}
+
+.entry:hover .header {
+    border-top: 1px solid var(--borderColor);
 }
 
 

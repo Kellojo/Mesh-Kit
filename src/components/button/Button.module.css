@@ -18,6 +18,7 @@
     user-select: none;
 
     font-size: var(--defaultFontSize);
+    overflow: hidden;
 
 
 }
