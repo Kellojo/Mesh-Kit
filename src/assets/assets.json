@@ -18,10 +18,10 @@
             "name": "Construction Drone",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/Drone.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/Construction Drone.blend"
             },
             "createdAt": "2022-05-21T13:35:37.000Z",
-            "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+            "lastModifiedAt": "2023-08-19T20:43:13.000Z"
         },
         {
             "name": "Cursor",
@@ -99,10 +99,10 @@
             "name": "Land Mine",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/Mine.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/Land Mine.blend"
             },
             "createdAt": "2022-05-22T20:48:36.000Z",
-            "lastModifiedAt": "2022-08-20T10:48:48.000Z"
+            "lastModifiedAt": "2023-08-19T20:43:13.000Z"
         },
         {
             "name": "Mono Rail Piece",
