@@ -63,10 +63,10 @@
             "name": "Gatling Turret",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/Turret.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/Gatling Turret.blend"
             },
             "createdAt": "2022-05-23T21:05:26.000Z",
-            "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+            "lastModifiedAt": "2023-08-19T20:26:14.000Z"
         },
         {
             "name": "Hexagonal Cliffs",
