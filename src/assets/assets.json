@@ -207,10 +207,10 @@
             "name": "Tesla Coil",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/Connector.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/Tesla Coil.blend"
             },
             "createdAt": "2022-05-25T19:41:58.000Z",
-            "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+            "lastModifiedAt": "2023-08-19T20:35:07.000Z"
         },
         {
             "name": "Thruster",
