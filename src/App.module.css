@@ -1,6 +1,9 @@
 .app {
     text-align: center;
     background-color: var(--backgroundColor);
+
+    background: linear-gradient(45deg, var(--backgroundColor) 0%, var(--secondarySystemBackground) 100%);
+
     min-height: 100vh;
 }
 
