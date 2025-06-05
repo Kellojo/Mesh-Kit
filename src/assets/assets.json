@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 26
+            "count": 27
         }
     },
     "meshes": [
@@ -130,6 +130,15 @@
             },
             "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+        },
+        {
+            "name": "Power Pole",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Power Pole/icon.png",
+            "downloads": {
+                ".fbx": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Power Pole/Power Pole.fbx"
+            },
+            "createdAt": "2025-06-05T16:02:21.000Z",
+            "lastModifiedAt": "2025-06-05T16:02:21.000Z"
         },
         {
             "name": "Projectile",
