@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 25
+            "count": 26
         }
     },
     "meshes": [
@@ -157,6 +157,15 @@
             },
             "createdAt": "2022-05-22T20:48:36.000Z",
             "lastModifiedAt": "2022-05-27T09:51:52.000Z"
+        },
+        {
+            "name": "Seamine",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Seamine/icon.png",
+            "downloads": {
+                ".fbx": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Seamine/Seamine.fbx"
+            },
+            "createdAt": "2025-06-05T15:12:42.000Z",
+            "lastModifiedAt": "2025-06-05T15:12:42.000Z"
         },
         {
             "name": "Shell Casing",
